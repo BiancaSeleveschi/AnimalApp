@@ -1,0 +1,102 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #3bb918;
+  text-align:center;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+nav {
+  background: #684b4b;
+  padding: 7px;
+  border-radius:7px;
+  margin-bottom: 15px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  margin-right: 8px;
+  font-size: 17px;
+}
+
+nav ul li {
+  list-style-type: none;
+}
+
+input {
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  display:block;
+  margin: auto;
+  margin-bottom:5px;
+  width: 200px;
+}
+
+button {
+   border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  padding:7px;
+   background: #d6d6d6;
+}
+
+table {
+  margin: auto;
+  width: 95%;
+}
+
+thead {
+  font-weight: bold;
+}
+
+td {
+  text-align: center;
+  font-size: 18px;
+  padding: 5px;
+   background: #714b4b;
+}
+
+.delete-button {
+  background: #fef058;
+  margin: auto;
+}
+
+.favorite-button {
+  border: 3px;
+  background: #ae1392;
+   color:white;
+  margin: auto;
+}
+
+.nonfavorite-button {
+  border: 5px solid #570554;
+  background: #df6dca;
+  margin: auto;
+}
+
+.filter-input-div {
+  width: 250px;
+  margin:auto;
+  margin-bottom:5px;
+}
+
+span {
+  color: #fefbfe;
+  font-size: 18px;
+   font-weight: bold;
+}
+
+.sort-filter-h3 {
+   text-decoration: none;
+}
+
+#website {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: #0015b8;
+}
